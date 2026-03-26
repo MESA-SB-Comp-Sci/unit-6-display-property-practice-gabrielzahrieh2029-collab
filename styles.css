@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    background-color: aqua;
+}
+
+nav {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+footer {
+    background-color: yellowgreen;
+}
+
+div {
+    background-color: violet;
+}
+
+/* Write your code below this line */
+
+
+/* The nav links are currently stacked on top of each other.
+   Change the display property so they sit side by side. */
+
+.nav-link {
+    display: block;
+}
+
+
+/* The cards are also stacked on top of each other.
+   Change the display property so they sit side by side. */
+
+.card {
+    display: block;
+}
+
+
+/* The credits in the footer are currently sitting side by side.
+   Change the display property so they stack on top of each other. */
+
+.footer-credit {
+    display: inline;
+}
+
+
+
+
+
